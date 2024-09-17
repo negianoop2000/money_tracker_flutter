@@ -30,13 +30,13 @@ This project serves as a starting point for Flutter development. To start using 
    flutter run
    ```
 **ScreenShots**
-![WhatsApp Image 2024-09-17 at 5 19 41 PM](https://github.com/user-attachments/assets/701b99cc-0eab-46ce-b041-2be8995f3b87)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/701b99cc-0eab-46ce-b041-2be8995f3b87" alt="Image 1" width="200" style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/62ac30de-9c88-4221-96d4-f6363edaf168" alt="Image 2" width="200" style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/b59c30b5-aaf8-4d39-b654-120bb23d9a09" alt="Image 3" width="200" style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/ecd76dea-af82-4584-a897-afc3cd02fa7e" alt="Image 4" width="200">
+</p>
 
-![WhatsApp Image 2024-09-17 at 5 19 42 PM](https://github.com/user-attachments/assets/62ac30de-9c88-4221-96d4-f6363edaf168)
-
-![WhatsApp Image 2024-09-17 at 5 19 42 PM (1)](https://github.com/user-attachments/assets/b59c30b5-aaf8-4d39-b654-120bb23d9a09)
-
-![WhatsApp Image 2024-09-17 at 5 19 42 PM (2)](https://github.com/user-attachments/assets/ecd76dea-af82-4584-a897-afc3cd02fa7e)
 
 
 
